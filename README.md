@@ -1,7 +1,7 @@
-# Auter:
+# Auteur:
  - Titre : prepareLaTable
- - Version : 0.1 Beta
- - Auteur :      CHORFA Alla-eddine
+ - Version : 0.9 Beta
+ - Auteur : CHORFA Alla-eddine
  - Contact : h4ckr213dz@gmail.com
       
 # Description : 
